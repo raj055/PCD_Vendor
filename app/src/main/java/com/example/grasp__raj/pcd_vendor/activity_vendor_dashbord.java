@@ -19,6 +19,11 @@ import android.view.ViewGroup;
 
 import android.widget.TextView;
 
+/**
+ * @author Grasp
+ * @version 1.0 on 18-06-2018.
+ */
+
 public class activity_vendor_dashbord extends AppCompatActivity {
 
     private SectionsPageAdapter mSectionsPagerAdapter;

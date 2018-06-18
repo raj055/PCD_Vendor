@@ -1,5 +1,10 @@
 package com.example.grasp__raj.pcd_vendor;
 
+/**
+ * @author Grasp
+ * @version 1.0 on 18-06-2018.
+ */
+
 public class PurchaseData {
 
     private String id;

@@ -16,7 +16,7 @@ import java.util.Map;
 
 /**
  * @author Grasp
- *  @version 1.0 on 28-03-2018.
+ * @version 1.0 on 18-06-2018.
  */
 
 public class HttpParse {

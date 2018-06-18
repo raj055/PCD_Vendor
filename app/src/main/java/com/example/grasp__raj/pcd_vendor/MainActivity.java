@@ -19,6 +19,11 @@ import org.json.JSONObject;
 
 import java.util.HashMap;
 
+/**
+ * @author Grasp
+ * @version 1.0 on 18-06-2018.
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     EditText Email, Password;

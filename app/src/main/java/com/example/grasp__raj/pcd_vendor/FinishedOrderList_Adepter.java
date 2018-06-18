@@ -12,6 +12,11 @@ import android.widget.TextView;
 
 import java.util.List;
 
+/**
+ * @author Grasp
+ * @version 1.0 on 18-06-2018.
+ */
+
 public class FinishedOrderList_Adepter extends BaseAdapter {
 
     private Context context;

@@ -23,6 +23,11 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Grasp
+ * @version 1.0 on 18-06-2018.
+ */
+
 public class FinishedOrder extends Fragment {
 
     private Context context;
