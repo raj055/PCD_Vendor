@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PCD_Vendor</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="title_activity_vendor_dashbord">activity_vendor_dashbord</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+</resources>
